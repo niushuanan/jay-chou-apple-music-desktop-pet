@@ -1,0 +1,105 @@
+{
+  "id": "fantasy",
+  "displayName": "范特西",
+  "canvas": {
+    "width": 220,
+    "height": 260
+  },
+  "source": "assets/animated-album-sheets/fantasy",
+  "actions": {
+    "idle": {
+      "fps": 6,
+      "frameDuration": 0.1667,
+      "loop": true,
+      "frameCount": 16,
+      "frames": [
+        "album_animations/fantasy/frames/fantasy_idle_0001.png",
+        "album_animations/fantasy/frames/fantasy_idle_0002.png",
+        "album_animations/fantasy/frames/fantasy_idle_0003.png",
+        "album_animations/fantasy/frames/fantasy_idle_0004.png",
+        "album_animations/fantasy/frames/fantasy_idle_0005.png",
+        "album_animations/fantasy/frames/fantasy_idle_0006.png",
+        "album_animations/fantasy/frames/fantasy_idle_0007.png",
+        "album_animations/fantasy/frames/fantasy_idle_0008.png",
+        "album_animations/fantasy/frames/fantasy_idle_0009.png",
+        "album_animations/fantasy/frames/fantasy_idle_0010.png",
+        "album_animations/fantasy/frames/fantasy_idle_0011.png",
+        "album_animations/fantasy/frames/fantasy_idle_0012.png",
+        "album_animations/fantasy/frames/fantasy_idle_0013.png",
+        "album_animations/fantasy/frames/fantasy_idle_0014.png",
+        "album_animations/fantasy/frames/fantasy_idle_0015.png",
+        "album_animations/fantasy/frames/fantasy_idle_0016.png"
+      ]
+    },
+    "enter": {
+      "fps": 12,
+      "frameDuration": 0.0833,
+      "loop": false,
+      "frameCount": 16,
+      "frames": [
+        "album_animations/fantasy/frames/fantasy_enter_0001.png",
+        "album_animations/fantasy/frames/fantasy_enter_0002.png",
+        "album_animations/fantasy/frames/fantasy_enter_0003.png",
+        "album_animations/fantasy/frames/fantasy_enter_0004.png",
+        "album_animations/fantasy/frames/fantasy_enter_0005.png",
+        "album_animations/fantasy/frames/fantasy_enter_0006.png",
+        "album_animations/fantasy/frames/fantasy_enter_0007.png",
+        "album_animations/fantasy/frames/fantasy_enter_0008.png",
+        "album_animations/fantasy/frames/fantasy_enter_0009.png",
+        "album_animations/fantasy/frames/fantasy_enter_0010.png",
+        "album_animations/fantasy/frames/fantasy_enter_0011.png",
+        "album_animations/fantasy/frames/fantasy_enter_0012.png",
+        "album_animations/fantasy/frames/fantasy_enter_0013.png",
+        "album_animations/fantasy/frames/fantasy_enter_0014.png",
+        "album_animations/fantasy/frames/fantasy_enter_0015.png",
+        "album_animations/fantasy/frames/fantasy_enter_0016.png"
+      ]
+    },
+    "exit": {
+      "fps": 12,
+      "frameDuration": 0.0833,
+      "loop": false,
+      "frameCount": 16,
+      "frames": [
+        "album_animations/fantasy/frames/fantasy_exit_0001.png",
+        "album_animations/fantasy/frames/fantasy_exit_0002.png",
+        "album_animations/fantasy/frames/fantasy_exit_0003.png",
+        "album_animations/fantasy/frames/fantasy_exit_0004.png",
+        "album_animations/fantasy/frames/fantasy_exit_0005.png",
+        "album_animations/fantasy/frames/fantasy_exit_0006.png",
+        "album_animations/fantasy/frames/fantasy_exit_0007.png",
+        "album_animations/fantasy/frames/fantasy_exit_0008.png",
+        "album_animations/fantasy/frames/fantasy_exit_0009.png",
+        "album_animations/fantasy/frames/fantasy_exit_0010.png",
+        "album_animations/fantasy/frames/fantasy_exit_0011.png",
+        "album_animations/fantasy/frames/fantasy_exit_0012.png",
+        "album_animations/fantasy/frames/fantasy_exit_0013.png",
+        "album_animations/fantasy/frames/fantasy_exit_0014.png",
+        "album_animations/fantasy/frames/fantasy_exit_0015.png",
+        "album_animations/fantasy/frames/fantasy_exit_0016.png"
+      ]
+    },
+    "dragging": {
+      "fps": 10,
+      "frameDuration": 0.1,
+      "loop": true,
+      "frameCount": 14,
+      "frames": [
+        "album_animations/fantasy/frames/fantasy_drag_0001.png",
+        "album_animations/fantasy/frames/fantasy_drag_0002.png",
+        "album_animations/fantasy/frames/fantasy_drag_0003.png",
+        "album_animations/fantasy/frames/fantasy_drag_0004.png",
+        "album_animations/fantasy/frames/fantasy_drag_0005.png",
+        "album_animations/fantasy/frames/fantasy_drag_0006.png",
+        "album_animations/fantasy/frames/fantasy_drag_0007.png",
+        "album_animations/fantasy/frames/fantasy_drag_0008.png",
+        "album_animations/fantasy/frames/fantasy_drag_0009.png",
+        "album_animations/fantasy/frames/fantasy_drag_0010.png",
+        "album_animations/fantasy/frames/fantasy_drag_0011.png",
+        "album_animations/fantasy/frames/fantasy_drag_0012.png",
+        "album_animations/fantasy/frames/fantasy_drag_0013.png",
+        "album_animations/fantasy/frames/fantasy_drag_0014.png"
+      ]
+    }
+  }
+}

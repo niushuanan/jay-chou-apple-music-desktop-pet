@@ -1,0 +1,382 @@
+{
+  "albums": [
+    {
+      "id": "jay",
+      "displayName": "Jay",
+      "aliases": [
+        "jay",
+        "j.a.y",
+        "周杰伦",
+        "周杰倫",
+        "同名专辑",
+        "杰伦",
+        "杰倫"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 3,
+        "offsetX": 0,
+        "offsetY": 2,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/jay/jay_manifest"
+    },
+    {
+      "id": "fantasy",
+      "displayName": "范特西",
+      "aliases": [
+        "范特西",
+        "範特西",
+        "fantasy"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 4,
+        "offsetX": 0,
+        "offsetY": 4,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/fantasy/fantasy_manifest"
+    },
+    {
+      "id": "eight_dimensions",
+      "displayName": "八度空间",
+      "aliases": [
+        "八度空间",
+        "八度空間",
+        "the eight dimensions"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 3,
+        "offsetX": 0,
+        "offsetY": 2,
+        "visualInsets": {
+          "left": 2,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 10
+      },
+      "animationManifest": "album_animations/eight_dimensions/eight_dimensions_manifest"
+    },
+    {
+      "id": "yehui_mei",
+      "displayName": "叶惠美",
+      "aliases": [
+        "叶惠美",
+        "葉惠美",
+        "yeh hui-mei"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 3,
+        "offsetX": 0,
+        "offsetY": 6,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/yehui_mei/yehui_mei_manifest"
+    },
+    {
+      "id": "qilixiang",
+      "displayName": "七里香",
+      "aliases": [
+        "七里香",
+        "common jasmine orange"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 3,
+        "offsetX": 0,
+        "offsetY": 4,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/qilixiang/qilixiang_manifest"
+    },
+    {
+      "id": "november_chopin",
+      "displayName": "十一月的萧邦",
+      "aliases": [
+        "十一月的萧邦",
+        "十一月的蕭邦",
+        "11月的萧邦",
+        "11月的蕭邦",
+        "november's chopin",
+        "novembers chopin"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 4,
+        "offsetX": 0,
+        "offsetY": 10,
+        "visualInsets": {
+          "left": 52,
+          "right": 8,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 18
+      },
+      "animationManifest": "album_animations/november_chopin/november_chopin_manifest"
+    },
+    {
+      "id": "still_fantasy",
+      "displayName": "依然范特西",
+      "aliases": [
+        "依然范特西",
+        "依然範特西",
+        "still fantasy"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 3,
+        "offsetX": 0,
+        "offsetY": 3,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/still_fantasy/still_fantasy_manifest"
+    },
+    {
+      "id": "on_the_run",
+      "displayName": "我很忙",
+      "aliases": [
+        "我很忙",
+        "on the run"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 2,
+        "offsetX": 0,
+        "offsetY": 2,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/on_the_run/on_the_run_manifest"
+    },
+    {
+      "id": "capricorn",
+      "displayName": "魔杰座",
+      "aliases": [
+        "魔杰座",
+        "魔傑座",
+        "capricorn"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 4,
+        "offsetX": 0,
+        "offsetY": 2,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/capricorn/capricorn_manifest"
+    },
+    {
+      "id": "the_era",
+      "displayName": "跨时代",
+      "aliases": [
+        "跨时代",
+        "跨時代",
+        "the era"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 3,
+        "offsetX": 0,
+        "offsetY": 4,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/the_era/the_era_manifest"
+    },
+    {
+      "id": "wow",
+      "displayName": "惊叹号",
+      "aliases": [
+        "惊叹号",
+        "驚嘆號",
+        "wow",
+        "wow!"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 3,
+        "offsetX": 0,
+        "offsetY": 0,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/wow/wow_manifest"
+    },
+    {
+      "id": "opus12",
+      "displayName": "十二新作",
+      "aliases": [
+        "十二新作",
+        "12新作",
+        "opus 12"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 2,
+        "offsetX": 0,
+        "offsetY": 10,
+        "visualInsets": {
+          "left": 44,
+          "right": 12,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 20
+      },
+      "animationManifest": "album_animations/opus12/opus12_manifest"
+    },
+    {
+      "id": "aiyo",
+      "displayName": "哎哟不错哦",
+      "aliases": [
+        "哎哟不错哦",
+        "哎呦不错哦",
+        "哎呦，不错哦",
+        "哎呦，不錯哦",
+        "aiyo not bad"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 4,
+        "offsetX": 0,
+        "offsetY": 3,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/aiyo/aiyo_manifest"
+    },
+    {
+      "id": "bedtime_stories",
+      "displayName": "周杰伦的床边故事",
+      "aliases": [
+        "周杰伦的床边故事",
+        "周杰倫的床邊故事",
+        "bedtime stories",
+        "jay chou's bedtime stories"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 3,
+        "offsetX": 0,
+        "offsetY": 5,
+        "visualInsets": {
+          "left": 4,
+          "right": 0,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 8
+      },
+      "animationManifest": "album_animations/bedtime_stories/bedtime_stories_manifest"
+    },
+    {
+      "id": "greatest_works",
+      "displayName": "最伟大的作品",
+      "aliases": [
+        "最伟大的作品",
+        "最偉大的作品",
+        "greatest works of art",
+        "greatest works"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 2,
+        "offsetX": 0,
+        "offsetY": 8,
+        "visualInsets": {
+          "left": 40,
+          "right": 10,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 18
+      },
+      "animationManifest": "album_animations/greatest_works/greatest_works_manifest"
+    },
+    {
+      "id": "sun",
+      "displayName": "太阳之子",
+      "aliases": [
+        "太阳之子",
+        "太陽之子",
+        "sons of the sun"
+      ],
+      "enabled": true,
+      "bubbleLayout": {
+        "gap": 2,
+        "offsetX": 0,
+        "offsetY": 8,
+        "visualInsets": {
+          "left": 18,
+          "right": 8,
+          "top": 0,
+          "bottom": 0
+        },
+        "minimumCharacterSpacing": 18
+      },
+      "animationManifest": "album_animations/sun/sun_manifest"
+    }
+  ]
+}

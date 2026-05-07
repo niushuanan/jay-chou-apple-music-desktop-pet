@@ -1,0 +1,72 @@
+{
+  "albumRules": {
+    "november_chopin": {
+      "gap": 4,
+      "offsetX": 0,
+      "offsetY": 12,
+      "minimumCharacterSpacing": 22,
+      "headSafetyPadding": 30,
+      "visualInsets": {
+        "left": 56,
+        "right": 8,
+        "top": 0,
+        "bottom": 0
+      }
+    },
+    "opus12": {
+      "gap": 2,
+      "offsetX": 0,
+      "offsetY": 12,
+      "minimumCharacterSpacing": 24,
+      "visualInsets": {
+        "left": 46,
+        "right": 12,
+        "top": 0,
+        "bottom": 0
+      }
+    },
+    "greatest_works": {
+      "gap": 2,
+      "offsetX": 0,
+      "offsetY": 10,
+      "minimumCharacterSpacing": 20,
+      "visualInsets": {
+        "left": 42,
+        "right": 10,
+        "top": 0,
+        "bottom": 0
+      }
+    }
+  },
+  "trackRules": {
+    "一路向北": {
+      "gap": 5,
+      "offsetX": 0,
+      "offsetY": 14,
+      "minimumCharacterSpacing": 72,
+      "headSafetyPadding": 44,
+      "preferAbove": true,
+      "visualInsets": {
+        "left": 62,
+        "right": 8,
+        "top": 0,
+        "bottom": 0
+      }
+    },
+    "比较大的大提琴": {
+      "offsetX": 0,
+      "offsetY": 12,
+      "minimumCharacterSpacing": 30
+    },
+    "等你下课": {
+      "offsetX": 0,
+      "offsetY": 10,
+      "minimumCharacterSpacing": 26
+    },
+    "珊瑚海": {
+      "offsetX": 0,
+      "offsetY": 10,
+      "minimumCharacterSpacing": 28
+    }
+  }
+}
