@@ -1,10 +1,26 @@
 # 周杰伦 Apple Music 音乐桌面宠物
 
-![应用预览](docs/images/app-preview.png)
-
 把周杰伦 16 张专辑做成会跟着 Apple Music 一起变化的 macOS 桌面宠物。
 
 当你在 Apple Music 播放周杰伦的歌时，桌面上的角色会根据当前专辑自动切换；它会动、会显示歌词气泡，也能直接在桌面上帮你做播放控制。
+
+## 动作预览
+
+<p align="center">
+  <img src="assets/animated-album-sheets/jay/idle.png" alt="Jay idle sheet" width="48%" />
+  <img src="assets/animated-album-sheets/fantasy/enter.png" alt="Fantasy enter sheet" width="48%" />
+</p>
+<p align="center">
+  <img src="assets/animated-album-sheets/capricorn/dragging.png" alt="Capricorn dragging sheet" width="48%" />
+  <img src="assets/animated-album-sheets/greatest_works/exit.png" alt="Greatest Works exit sheet" width="48%" />
+</p>
+
+上面这 4 张图不是宣传海报，而是项目里真实在用的动作帧表，分别展示了：
+
+- 同名专辑的待机动作
+- 《范特西》的入场动作
+- 《魔杰座》的拖动动作
+- 《最伟大的作品》的离场动作
 
 ## 产品效果
 
@@ -42,7 +58,6 @@ app/
   scripts/                       资源处理、校验、运行、打包脚本
 
 docs/
-  images/app-preview.png
   product-brief-zh.md
 ```
 
